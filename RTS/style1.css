@@ -1,0 +1,52 @@
+.h2
+body{
+	margin: 0%;
+}
+.navbar{
+	width: 100%;
+	height: 40px;
+	background-color: beige;
+	color: crimson;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+    padding: 0px 30px;
+	box-sizing: border-box;
+}
+.nav-manu{
+	margin: 0%;
+	padding: 0%;
+	display: flex;
+}
+.nav-manu a{
+	margin-right: 25px;
+	background-color: crimson;
+	padding: 9px 20px;
+	border-radius: 20px;
+}
+.logo{
+	color: aqua;
+}
+
+.product{
+	width: 100%;
+	height: 200px;
+	background-color: blanchedalmond;
+    color: blue;
+	display: flex;
+	justify-content: space-between;
+	padding: 0px 45px;
+	box-sizing: border-box;
+
+
+}
+.item{
+	width: 200px;
+	height: 200px;
+	background-color:rgb(47, 198, 209);
+
+}
+
+.img{
+	height: 150px;
+}
